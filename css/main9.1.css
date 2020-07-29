@@ -1,0 +1,301 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    width: 100%;
+    background-color:white;
+    display: flex;
+}
+.bolak:nth-child(1){
+    width: 35%;
+    height: 650px;
+    background-color: white;
+    padding-top: 30px ;
+    padding-left: 40px;
+}
+
+.kabinet{
+    width: 90%;
+    height: 70%;
+    background-color: white;
+    border-radius: 6px;
+}
+.yol:nth-child(1){
+    width: 100%;
+    height: 15%;
+    background-color: blue;
+    box-shadow: 0px 0px 20px darkgray;
+    border-radius: 20px  20px 0px 0px;
+    font-size: 40px;
+    color: white;
+    text-align: center;
+    padding-top: 8px;
+}.yol:nth-child(3){
+     display: flex;
+     width: 100%;
+    height: 28.3%;
+     padding-top: 15px;
+     padding-left: 20px;
+     background-color: white;
+     box-shadow: 0px 0px 20px darkgray;
+}.yol:nth-child(2){
+      display: flex;
+    padding-top: 15px;
+    padding-left: 20px;
+    width: 100%;
+    height: 28.3%;
+    background-color: white;
+      box-shadow: 0px 0px 20px darkgray;
+
+}.yol:nth-child(4){
+       display: flex;
+       padding-top: 15px;
+       padding-left: 20px;
+       width: 100%;
+    height: 28.3%;
+    background-color: white;
+       box-shadow: 0px 0px 20px darkgray;
+}
+.image{
+    width:40% ;
+    height: 90%;
+    background-position-x: -420px;
+    background-position-y: -730px;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+}
+.image1{
+    width:40% ;
+    height: 90%;
+    background-position-x: -560px;
+    background-position-y: -730px;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+}
+.image2{
+    width:40% ;
+    height: 90%;
+    background-position-x: -700px;
+    background-position-y: -730px;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+}
+ .matn{
+     width: 60%;
+     height: 100%;
+     padding-left: 20px;
+     justify-content: space-between;
+ }
+.harf{
+    width: 80%;
+    height: 20%;
+    padding-bottom: 2px;
+}
+.harf:nth-child(1){
+    background-color: blue;
+    border-radius: 5px;
+    padding-bottom: 2px;
+    color: white;
+    padding-left: 20px;
+
+
+}.harf:nth-child(2){
+    background-color: blue;
+    border-radius: 5px;
+     padding-bottom: 2px;
+    color: white;
+    padding-left: 20px;
+
+
+}.harf:nth-child(3){
+    background-color: blue;
+    border-radius: 5px;
+    padding-bottom: 2px;
+    color: white;
+    padding-left: 20px;
+}
+
+.bolak:nth-child(2){
+    width: 75%;
+    height: 690px;
+    background-color: white;
+    display: flex;
+    flex-wrap: wrap;
+    padding-left: 50px;
+    padding-top: 5px;
+}
+.cord{
+    width: 200px;
+    height: 200px;
+    background-color: white;
+    margin: 8px 16px;
+    box-shadow: 0 0 5px black;
+    padding: 10px;
+    position: relative;
+    overflow: hidden;
+}
+.cord-head:nth-child(1){
+    width: 100%;
+    height: 40%;
+    background-color: white;
+display: flex;
+}
+.cord-footer{
+    width: 100%;
+    height: 60%;
+    background-color: white;
+    padding-left: 2px;
+}
+.ikki{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: 10px;
+    background-position-y: 10px;
+}
+.uch{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+
+}
+.ikki2{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -90px;
+    background-position-y: 10px;
+}
+.uch2{
+    padding-left: 10px;
+    padding-top: 20px;
+    width: 60%;
+    height: 100%;
+}
+
+.ikki3{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -190px;
+    background-position-y: 10px;
+}
+.uch3{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ikki4{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -290px;
+     background-position-y: 10px;
+}
+.uch4{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ikki5{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -390px;
+    background-position-y: 10px;
+}
+.uch5{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ikki6{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -490px;
+    background-position-y: 10px;
+}
+.uch6{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ikki7{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -590px;
+    background-position-y: 10px;
+}
+.uch7{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ikki8{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -690px;
+    background-position-y: 10px;
+}
+.uch8{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.ikki9{
+    width: 40%;
+    height: 100%;
+    background-color: white;
+    background-image: url("../image/intser-icons.png");
+    background-repeat: no-repeat;
+    background-position-x: -790px;
+    background-position-y: 10px;
+}
+.uch9{
+    width: 60%;
+    height: 100%;
+    padding-left: 10px;
+    padding-top: 20px;
+}
+.cord-footer{
+    color: blue;
+}
+.aylana{
+    border-radius: 50%;
+    width: 60px;
+    height: 60px;
+    background-color: blue;
+    position: absolute;
+    top: -25px;
+    right: -25px;
+color: white;
+    font-size: 20px;
+    padding-top: 30px;
+    padding-left: 15px;
+}
